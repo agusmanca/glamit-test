@@ -36,6 +36,8 @@ public class CategoryController {
     }
 
     @GetMapping()
+    @ApiOperation(nickname = "getCategoryList", value = "Get a category List", notes = "Allow get a list of categories.")
+    @ApiResponses(value = { @ApiResponse(code = 200, message = "Sucessful", response = ResponseEntity.class) })
     public ResponseEntity<List<Category>> getCategoryList() {
         List<Category> categories = categoryService.getCategoryList();
         return new ResponseEntity<>(categories, HttpStatus.OK);

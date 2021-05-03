@@ -16,7 +16,7 @@ import java.util.Objects;
 
 @Controller
 @RequestMapping("/product")
-@Api(tags = "Product Controller", value = "Operaciones para Product Controller")
+@Api(tags = "Product Controller", value = "Operations for Product Controller")
 public class ProductController {
 
     @Autowired
