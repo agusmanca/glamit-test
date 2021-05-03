@@ -1,0 +1,17 @@
+[
+  {
+    "id": 0,
+    "description" : "Categoria A",
+    "code": "CT0001"
+  },
+  {
+    "id": 1,
+    "description" : "Categoria B",
+    "code": "CT0002"
+  },
+  {
+    "id": 2,
+    "description" : "Categoria C",
+    "code": "CT0003"
+  }
+]

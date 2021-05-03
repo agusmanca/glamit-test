@@ -1,0 +1,51 @@
+[
+  {
+    "id": 0,
+    "name": "producto A",
+    "category": 0,
+    "price": 10.5,
+    "imgUrl": "",
+    "sku": "u001dhz15Xs"
+  },
+  {
+    "id": 1,
+    "name": "producto B",
+    "category": 1,
+    "price": 18,
+    "imgUrl": "",
+    "sku": "u001dhvu008b"
+  },
+  {
+    "id": 2,
+    "name": "producto C",
+    "category": 0,
+    "price": 8.35,
+    "imgUrl": "",
+    "sku": "u001drjsW32h"
+  },
+  {
+    "id": 3,
+    "name": "producto D",
+    "category": 2,
+    "price": 73,
+    "imgUrl": "",
+    "sku": "u00345wlkthWhG"
+  },
+  {
+    "id": 4,
+    "name": "producto E",
+    "category": 1,
+    "price": 150.2,
+    "imgUrl": "",
+    "sku": "u002a2ws4b008b"
+  },
+  {
+    "id": 5,
+    "name": "producto F",
+    "category": 0,
+    "price": 17.35,
+    "imgUrl": "",
+    "sku": "u001dfdesW2qh"
+  }
+]
+
